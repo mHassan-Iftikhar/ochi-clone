@@ -1,1 +1,7 @@
 @import "tailwindcss";
+
+.nav {
+    backdrop-filter: blur(10px);
+    background: rgba(255, 255, 255, 0.377);
+    border-radius: 0px 0px 10px 10px;
+}
